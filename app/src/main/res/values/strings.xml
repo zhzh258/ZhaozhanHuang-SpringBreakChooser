@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SpringBreakChooser</string>
+    <string name="type_phrase">Enter the phrase</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="shake_hint">Click on the button or shake your phone to show recommendation!</string>
+    <string name="find_button">Find My Location</string>
+
+</resources>
